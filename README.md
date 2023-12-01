@@ -2,6 +2,11 @@
 
 Este é um projeto de exemplo de página de SignIn. O projeto foi construído usando React Native e TypeScript.
 
+## Telas do Aplicativo
+
+<img src="docs/signin.png" alt="Tela de SignIn" width="200"/>
+<img src="docs/welcome.png" alt="Tela de Welcome" width="200"/>
+
 ## Características
 
 - **SignIn Screen**: Uma tela de login onde os usuários podem inserir suas credenciais.
@@ -47,3 +52,14 @@ react-native-sign-in-example/
 ├── App.tsx              # Componente raiz do aplicativo
 └── README.md            # Documentação do projeto
 ```
+
+## Usuários de Teste
+
+O aplicativo possui um conjunto de usuários fixos (hardcoded) para fins de teste e demonstração. Esses usuários são usados para simular o processo de autenticação. Abaixo estão as credenciais desses usuários de teste:
+
+| Username | Password   |
+|----------|------------|
+| user1    | password1  |
+| user2    | password2  |
+
+Para realizar o login no aplicativo, utilize uma das combinações de nome de usuário e senha listadas acima. Esses usuários são parte da simulação de autenticação e são usados apenas para demonstrar o funcionamento do processo de login.
