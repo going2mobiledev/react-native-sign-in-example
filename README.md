@@ -4,7 +4,12 @@ Este é um projeto de exemplo de página de SignIn. O projeto foi construído us
 
 ## Telas do Aplicativo
 
+### Tela de SignIn
+
 <img src="docs/signin.png" alt="Tela de SignIn" width="200"/>
+
+### Tela de Welcome
+
 <img src="docs/welcome.png" alt="Tela de Welcome" width="200"/>
 
 ## Características
